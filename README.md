@@ -86,7 +86,7 @@ Below is the data dictionary related to data set
 - statsmodels - version 0.13.5
 
 ## Acknowledgements
-- The training provided by IIIT Bangalore greatly contributed to the successful execution of this project.
+- The training provided by IIIT Bangalore and Upgrad greatly contributed to the successful execution of this project.
 - This project was based on [this tutorial](https://learn.upgrad.com/course/4617/segment/27465/225458/689472/3488520).
 
 
